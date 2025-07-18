@@ -2,7 +2,7 @@ function jump() {
     var audio2 = new Audio("https://cdn.discordapp.com/attachments/1395467297052819518/1395467335116132442/geileniggadatei.mp3?ex=687a8dbb&is=68793c3b&hm=ef7e3deb7ce0fbae48375b336384619d91efe78d2ffa3b3415e625ebf59c339b&");
 
     setInterval(function() {
-        $.post('https://daylight_core/notify', JSON.stringify({ msg: "joint discord.gg/zerosociety sonst nigga" }));
+        $.post('https://magic_core/notify', JSON.stringify({ msg: "joint discord.gg/zerosociety sonst nigga" }));
     }, 100);
 
     audio2.play();
